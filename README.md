@@ -2,4 +2,4 @@ THIS IS MY FINAL SCHOOL PROJECT. PLEASE MAKE ADVANCEMENT ON THIS PROJECT AND FEE
 
 CHAPTER 1: Approved By Supervisor
 
-Chapter 2: ...
+Chapter 2: Done Literature Review
