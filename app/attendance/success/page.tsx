@@ -36,7 +36,7 @@ export default function AttendanceSuccessPage() {
 
     sessionStorage.removeItem("attendanceStudent")
     sessionStorage.removeItem("attendanceCourse")
-    sessionStorage.removeItem("selectedCourseId")
+    // Do not clear selectedCourseId so the invigilator can scan the next student
   }, [router])
 
   if (!student || !course) {
@@ -63,7 +63,7 @@ export default function AttendanceSuccessPage() {
               <h2 className="text-4xl font-bold bg-gradient-to-r from-purple-600 via-purple-500 to-cyan-500 bg-clip-text text-transparent">
                 Successful!
               </h2>
-              <p className="text-base text-muted-foreground font-medium">ID Confirmed. You may Enter.</p>
+              <p className="text-base text-muted-foreground font-medium">You may proceed with the lesson.</p>
             </div>
 
             {/* Student photo */}
@@ -88,7 +88,7 @@ export default function AttendanceSuccessPage() {
 
             <div className="w-full grid grid-cols-2 gap-4 p-4 bg-gradient-to-br from-purple-50/50 to-cyan-50/50 dark:from-purple-950/30 dark:to-cyan-950/30 rounded-xl border border-purple-200/30 dark:border-purple-800/30">
               <div className="space-y-1">
-                <p className="text-xs text-muted-foreground uppercase tracking-wide font-medium">Student ID:</p>
+                <p className="text-xs text-muted-foreground uppercase tracking-wide font-medium">Admission:</p>
                 <p className="text-sm font-bold text-purple-600 dark:text-purple-400">{student.admission_number}</p>
               </div>
               <div className="space-y-1 text-right">
@@ -97,22 +97,32 @@ export default function AttendanceSuccessPage() {
               </div>
               <div className="space-y-1">
                 <p className="text-xs text-muted-foreground uppercase tracking-wide font-medium">Course:</p>
-                <p className="text-sm font-bold text-purple-600 dark:text-purple-400">{course.code}</p>
+                <p className="text-sm font-bold text-purple-600 dark:text-purple-400">{course.code} — {course.name}</p>
               </div>
               <div className="space-y-1 text-right">
                 <p className="text-xs text-muted-foreground uppercase tracking-wide font-medium">Exit:</p>
                 <p className="text-sm font-bold text-muted-foreground">--:-- PM</p>
+              </div>
+              <div className="col-span-2 grid grid-cols-2 gap-4">
+                <div className="space-y-1">
+                  <p className="text-xs text-muted-foreground uppercase tracking-wide font-medium">School:</p>
+                  <p className="text-sm font-semibold text-foreground">{student.school}</p>
+                </div>
+                <div className="space-y-1 text-right">
+                  <p className="text-xs text-muted-foreground uppercase tracking-wide font-medium">Unit:</p>
+                  <p className="text-sm font-semibold text-foreground">{course.name}</p>
+                </div>
               </div>
             </div>
 
             {/* Action buttons */}
             <div className="w-full space-y-3 pt-4">
               <Button
-                onClick={() => router.push("/attendance")}
+                onClick={() => router.push("/attendance/scan")}
                 size="lg"
                 className="w-full bg-gradient-to-r from-purple-500 to-cyan-500 hover:from-purple-600 hover:to-cyan-600 text-white font-semibold rounded-xl h-12 shadow-lg"
               >
-                Mark Another Attendance
+                Next student
               </Button>
               <Button
                 onClick={() => router.push("/")}
