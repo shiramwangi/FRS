@@ -4,4 +4,4 @@ CHAPTER 1: INTRODUCTION. Approved By Supervisor
 
 Chapter 2: LITERATURE REVIEW. Pending Approval. AI Tested, 11%
 
-CHAPTER 3:
+CHAPTER 3: METHODOLOGIES
