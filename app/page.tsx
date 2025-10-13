@@ -1,4 +1,5 @@
 import Link from "next/link"
+import Image from "next/image"
 import { Button } from "@/components/ui/button"
 
 export default function HomePage() {
@@ -12,6 +13,17 @@ export default function HomePage() {
           </div>
 
           <div className="relative z-10 flex flex-col items-center space-y-8">
+            {/* Riara University Logo */}
+            <div className="flex items-center justify-center">
+              <Image
+                src="/images/riara-logo.png"
+                alt="Riara University logo"
+                width={96}
+                height={96}
+                className="h-24 w-24 object-contain"
+                priority
+              />
+            </div>
             {/* Face wireframe illustration */}
             <div className="relative w-48 h-48 flex items-center justify-center">
               <svg
