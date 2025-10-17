@@ -7,3 +7,5 @@ Chapter 2: LITERATURE REVIEW. Submitted
 CHAPTER 3: METHODOLOGIES... Pending
 
 Disapproved due to credibility restrictions
+
+Plagiarism check !<30%
