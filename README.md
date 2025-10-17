@@ -9,3 +9,4 @@ CHAPTER 3: METHODOLOGIES... Pending
 Disapproved due to credibility restrictions
 
 Plagiarism check !<30%
+AI check !<10%
