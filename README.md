@@ -8,5 +8,5 @@ CHAPTER 3: METHODOLOGIES... Pending
 
 Disapproved due to credibility restrictions
 
-Plagiarism check !<30%
-AI check !<10%
+Plagiarism check !<30%, I got 10% (PASS)
+AI check !<10% I got 16% (FAIL)
