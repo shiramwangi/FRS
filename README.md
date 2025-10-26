@@ -10,3 +10,6 @@ Disapproved due to credibility restrictions
 
 Plagiarism check !<30%, I got 10% (PASS)
 AI check !<10% I got 16% (FAIL)
+DOCUMENTATION DONE.
+
+System: Zipped the wrong files, need to switch to the right one
