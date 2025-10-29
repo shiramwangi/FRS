@@ -4,7 +4,7 @@ CHAPTER 1: INTRODUCTION. Approved By Supervisor
 
 Chapter 2: LITERATURE REVIEW. Submitted
 
-CHAPTER 3: METHODOLOGIES... Pending
+CHAPTER 3: METHODOLOGIES... Submitted
 
 Disapproved due to credibility restrictions
 
