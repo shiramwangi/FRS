@@ -4,7 +4,7 @@ CHAPTER 1: INTRODUCTION. Submitted.
 
 CHAPTER 2: LITERATURE REVIEW. Submitted
 
-CHAPTER 3: METHODOLOGIES... Submitted
+CHAPTER 3: METHODOLOGIES... Submitted.
 
 Disapproved due to credibility restrictions
 
