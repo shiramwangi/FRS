@@ -2,11 +2,11 @@ THIS IS MY FINAL SCHOOL PROJECT. PLEASE MAKE ADVANCEMENT ON THIS PROJECT AND FEE
 
 CHAPTER 1: INTRODUCTION. Submitted.
 
-CHAPTER 2: LITERATURE REVIEW. Submitted
+CHAPTER 2: LITERATURE REVIEW. Submitted.
 
 CHAPTER 3: METHODOLOGIES... Submitted.
 
-Disapproved due to credibility restrictions
+Disapproved due to credibility restrictions.
 
 Plagiarism check !<30%, I got 10% (PASS)
 AI check !<10% I got 16% (FAIL)
