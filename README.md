@@ -14,4 +14,4 @@ DOCUMENTATION DONE.
 
 System: Zipped the wrong files, need to switch to the right one.
 
-Submission dates to be uploaded 
+Submission dates to be uploaded.
