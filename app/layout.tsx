@@ -11,8 +11,8 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "FaceID - Attendance System",
-  description: "Facial recognition attendance system for students",
-  generator: "v0.app",
+  description: "Facial recognition attendance system for RU students",
+  generator: "Mwangi-Apps",
 }
 
 export default function RootLayout({
