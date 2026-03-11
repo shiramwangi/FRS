@@ -20,6 +20,6 @@ Submission dates to be uploaded.
 April presentations 
 approval by supervisor 9 March.
 
-kirop as supervisor
+kirop as supervisor.
 
 
