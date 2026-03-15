@@ -3,11 +3,13 @@ THIS IS MY FINAL SCHOOL PROJECT. PLEASE MAKE ADVANCEMENT ON THIS PROJECT AND FEE
 AGH DO THIS PROJECT ON MONDAY
 
 ```
-CHAPTER 1: INTRODUCTION. Submitted.
+CHAPTER 1: INTRODUCTION.
 
-CHAPTER 2: LITERATURE REVIEW. Submitted.
+CHAPTER 2: LITERATURE REVIEW.
 
-CHAPTER 3: METHODOLOGIES... Submitted.
+CHAPTER 3: METHODOLOGIES.
+
+Chapter 4:
 
 Disapproved due to credibility restrictions.
 
@@ -22,6 +24,6 @@ Submission dates to be uploaded.
 April presentations 
 approval by supervisor 9 March.
 
-kirop as supervisor.
+kirop as supervisor. Not responded. 
 
 
