@@ -54,7 +54,7 @@ export default function RegistrationSuccessPage() {
             <div className="text-center space-y-2">
               <h2 className="text-2xl font-bold text-primary">Registration Successful!</h2>
               <p className="text-sm text-muted-foreground text-pretty">
-                Your face has been registered. You can now use facial recognition to mark attendance.
+                Your face has been registered. You can now use your face to mark attendance.
               </p>
             </div>
 
